@@ -11,14 +11,14 @@ Communication par décalage de bit, checksum et ping-pong.
 
 Compilation par Makefile. (make all)
 <h1></h1>
-Exemple de map dans le fichier pos.<br>
+Exemple de map dans le fichier posistion.<br>
 
 Usage:<br>
 ./navy [pid] map
 
 Exemple:<br>
-Premier joueur: <code>./navy pos</code><br>
- Deuxième joueur: <code>./navy 3241 pos</code>
+Premier joueur: <code>./navy position/pos1</code><br>
+ Deuxième joueur: <code>./navy 3241 position/pos2</code>
 
 # Example
 <h3>Premier navy</h3>
