@@ -20,3 +20,6 @@ Exemple:<br>
 ./navy pos<br>
 ./navy 3241 pos
 
+# Example
+<h1></h1>
+<h3>Premier navy</h3>
