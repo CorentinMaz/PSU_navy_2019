@@ -22,63 +22,63 @@ Exemple:<br>
 
 # Example
 <h3>Premier navy</h3>
-<code>my_pid: 31567<br>
-waiting for enemy connexion...<br>
-enemy connected<br>
+<code>"my_pid: 31567
+waiting for enemy connexion...
+enemy connected
 
 my positions:
- |A B C D E F G H<br>
--+---------------<br>
-1|. . 2 . . . . .<br>
-2|. . 2 . . . . .<br>
-3|. . . . . . . .<br>
-4|. . . 3 3 3 . .<br>
-5|. 4 . . . . . .<br>
-6|. 4 . . . . . .<br>
-7|. 4 . 5 5 5 5 5<br>
-8|. 4 . . . . . .<br>
+ |A B C D E F G H
+-+---------------
+1|. . 2 . . . . .
+2|. . 2 . . . . .
+3|. . . . . . . .
+4|. . . 3 3 3 . .
+5|. 4 . . . . . .
+6|. 4 . . . . . .
+7|. 4 . 5 5 5 5 5
+8|. 4 . . . . . .
 
-enemy's positions:<br>
- |A B C D E F G H<br>
--+---------------<br>
-1|. . . . . . . .<br>
-2|. . . . . . . .<br>
-3|. . . . . . . .<br>
-4|. . . . . . . .<br>
-5|. . . . . . . .<br>
-6|. . . . . . . .<br>
-7|. . . . . . . .<br>
-8|. . . . . . . .<br>
+enemy's positions:
+ |A B C D E F G H
+-+---------------
+1|. . . . . . . .
+2|. . . . . . . .
+3|. . . . . . . .
+4|. . . . . . . .
+5|. . . . . . . .
+6|. . . . . . . .
+7|. . . . . . . .
+8|. . . . . . . .
 
-attack: C1<br>
-C1: missed<br>
+attack: C1
+C1: missed
 
-waiting for enemy's attack...<br>
-C1: hit<br>
+waiting for enemy's attack...
+C1: hit
 
-my positions:<br>
- |A B C D E F G H<br>
--+---------------<br>
-1|. . x . . . . .<br>
-2|. . 2 . . . . .<br>
-3|. . . . . . . .<br>
-4|. . . 3 3 3 . .<br>
-5|. 4 . . . . . .<br>
-6|. 4 . . . . . .<br>
-7|. 4 . 5 5 5 5 5<br>
-8|. 4 . . . . . .<br>
+my positions:
+ |A B C D E F G H
+-+---------------
+1|. . x . . . . .
+2|. . 2 . . . . .
+3|. . . . . . . .
+4|. . . 3 3 3 . .
+5|. 4 . . . . . .
+6|. 4 . . . . . .
+7|. 4 . 5 5 5 5 5
+8|. 4 . . . . . .
 
-enemy's positions:<br>
- |A B C D E F G H<br>
--+---------------<br>
-1|. . o . . . . .<br>
-2|. . . . . . . .<br>
-3|. . . . . . . .<br>
-4|. . . . . . . .<br>
-5|. . . . . . . .<br>
-6|. . . . . . . .<br>
-7|. . . . . . . .<br>
-8|. . . . . . . .<br>
+enemy's positions:
+ |A B C D E F G H
+-+---------------
+1|. . o . . . . .
+2|. . . . . . . .
+3|. . . . . . . .
+4|. . . . . . . .
+5|. . . . . . . .
+6|. . . . . . . .
+7|. . . . . . . .
+8|. . . . . . . .
 
-attack: <br>
-[...]<br></code>
+attack: 
+[...]"</code>
