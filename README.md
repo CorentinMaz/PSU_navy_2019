@@ -11,12 +11,12 @@ Communication par décalage de bit, checksum et ping-pong.
 
 Compilation par Makefile. (make all)
 <h1></h1>
-Exemple de map dans le fichier pos.
+Exemple de map dans le fichier pos.<br>
 
-Usage:
+Usage:<br>
 ./navy [pid] map
 
-Exemple:
+Exemple:<br>
 ./navy pos
 ./navy 3241 pos
 
