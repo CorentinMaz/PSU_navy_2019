@@ -17,6 +17,6 @@ Usage:<br>
 ./navy [pid] map
 
 Exemple:<br>
-./navy pos
+./navy pos<br>
 ./navy 3241 pos
 
