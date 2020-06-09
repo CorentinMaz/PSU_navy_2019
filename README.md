@@ -17,8 +17,8 @@ Usage:<br>
 ./navy [pid] map
 
 Exemple:<br>
-Premier joueur: ./navy pos<br>
-Deuxième joueur: ./navy 3241 pos
+Premier joueur: <code>./navy pos</code><br>
+ Deuxième joueur: <code>./navy 3241 pos</code>
 
 # Example
 <h3>Premier navy</h3>
