@@ -22,7 +22,7 @@ Exemple:<br>
 
 # Example
 <h3>Premier navy</h3>
-<pre><code>"my_pid: 31567
+<pre><code>my_pid: 31567
 waiting for enemy connexion...
 enemy connected
 
@@ -81,4 +81,4 @@ enemy's positions:
 8|. . . . . . . .
 
 attack: 
-[...]"</code></pre>
+[...]</code></pre>
